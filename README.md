@@ -1,2 +1,2 @@
 # rxSwiftText
-Test project for learninng RxSwift
+Test project for learning RxSwift
